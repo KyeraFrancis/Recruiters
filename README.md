@@ -1,6 +1,6 @@
 # Recruiters
 
-AI/Machine Learning:
+AI/ML Projects:
 imageClassifier
 
 Below is my resume 
