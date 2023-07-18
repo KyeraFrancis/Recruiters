@@ -2,9 +2,9 @@
 
 AI/ML Projects:
 
-imageClassifier
+(1)imageClassifier
 
-RMSE_StudyandScore_Prediction
+(2)RMSE_StudyandScore_Prediction
 
 Below is my resume 
 
