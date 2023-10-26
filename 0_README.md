@@ -15,6 +15,14 @@ This code is a basic example of RMSE calculation for a linear regression model. 
 
 ![image](https://github.com/KyeraFrancis/Recruiters/assets/131722539/fb02ae40-7be2-4926-9b8e-e0aeb9e8e230)
 
+Data Analyst Projects:
+(3)KickStarter.
+
+This notebook was a request for analysis of recommendations for a successful KickStarter.
+
+![image](https://github.com/KyeraFrancis/Recruiters/assets/131722539/9ad87850-476c-479a-b0d5-209d052d7ee7)
+
+The Slide Deck:[KickStarterSlideDeck.pdf](https://github.com/KyeraFrancis/Recruiters/files/13179698/KickStarterSlideDeck.pdf)
 
 Below is my resume 
 
