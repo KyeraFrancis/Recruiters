@@ -10,6 +10,12 @@ AI/ML Projects:
 
 (2)RMSE_StudyandScore_Prediction
 
+
+![image](https://github.com/KyeraFrancis/Recruiters/assets/131722539/fb02ae40-7be2-4926-9b8e-e0aeb9e8e230)
+
+
 Below is my resume 
 
 Enjoy!
+
+[Kyera_Francis.pdf](https://github.com/KyeraFrancis/Recruiters/files/13179481/Kyera_Francis.pdf)
