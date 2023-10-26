@@ -2,7 +2,7 @@
 
 AI/ML Projects:
 
-(1)imageClassifier:
+(1)ImageClassifier:
 
 This code template sets up a feedforward neural network for the task of recognizing grayscale images of clothing items. The goal is to classify these images into one of 10 predefined categories. The key components of the code include data preprocessing, model architecture, and model compilation.
 
