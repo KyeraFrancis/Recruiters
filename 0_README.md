@@ -11,6 +11,7 @@ This code template sets up a feedforward neural network for the task of recogniz
 
 (2)RMSE_StudyandScore_Prediction
 
+This code is a basic example of RMSE calculation for a linear regression model. It can be used to evaluate how well the model's predictions match the actual data.
 
 ![image](https://github.com/KyeraFrancis/Recruiters/assets/131722539/fb02ae40-7be2-4926-9b8e-e0aeb9e8e230)
 
