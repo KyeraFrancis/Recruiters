@@ -1,6 +1,7 @@
 # Recruiters
 
-Data Analyst Projects: (3)(4)
+Data Analyst Projects: (3)(4) 
+
 AI/ML Projects: (1)(2)
 ____________________________
 #Data Science Projects:
